@@ -4,7 +4,7 @@ function happyHolidays(string)
   return "Happy holidays!"
 }
 
-var NameReturn = querySelector("name").string
+var NameReturn = querySelector("name").text
 
 function happyHolidaysTo(string)
 {
