@@ -4,9 +4,9 @@ function happyHolidays(string)
   return "Happy holidays!"
 }
 
-var NameReturn = document.queryselector("name").string
+var NameReturn = document.queryselector("name").innerHTML
 
 function happyHolidaysTo(string)
 {
-  return "Happy holidays, " + ${name} + "!"
+  return "Happy holidays, " + NameReturn + "!"
 }
