@@ -9,6 +9,6 @@ var NameReturn = document.queryselector("#name").string
 function happyHolidaysTo(string)
 {
   return "Happy holidays, " 
-  NameReturn.innerhtml
+  
   return "!"
 }
